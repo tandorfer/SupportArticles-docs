@@ -649,6 +649,8 @@ For more information, go to the following websites:
 
 |Build number or version|Service pack|Update|KB article|Release date|
 |---|---|---|---|---|
+|10.00.6560.00|SP3| Security update for SQL Server 2008 R2 SP3 GDR| [4057113](https://support.microsoft.com/help/4057113)|Jan 6, 2018|
+|10.00.6537.00|SP3| TLS 1.2 support for SQL Server 2008 SP3| [3135244](https://support.microsoft.com/help/3135244)|Jan 27, 2016|
 |10.50.6529.00|SP3| MS15-058: QFE Security Update| [3045314](https://support.microsoft.com/help/3045314)|July 14, 2015|
 |10.50.6220.00|SP3| MS15-058: QFE Security Update| [3045316](https://support.microsoft.com/help/3045316)|July 14, 2015|
 |10.50.6000.34|SP3| RTW/PCU3| [2979597](https://support.microsoft.com/help/2979597)|September 26, 2014|
@@ -705,8 +707,10 @@ For more information, go to the following websites:
 
 |Build number or version|Service pack|Update|KB article|Release date|
 |---|---|---|---|---|
-|10.00.6535.00|SP3| MS15-058: QFE Security Update| [3045308](https://support.microsoft.com/help/3045308)|July 14, 2015|
-|10.00.6241.00|SP3| MS15-058: GDR Security Update| [3045311](https://support.microsoft.com/help/3045311)|July 14, 2015|
+|10.00.6556.00|SP4| Security update for SQL Server 2008 SP4 GDR| [4057114](https://support.microsoft.com/help/4057114)|Jan 6, 2018|
+|10.00.6543.00|SP4| TLS 1.2 support for SQL Server 2008 SP4| [3135244](https://support.microsoft.com/help/3135244)|Jan 27, 2016|
+|10.00.6535.00|SP4| MS15-058: QFE Security Update| [3045308](https://support.microsoft.com/help/3045308)|July 14, 2015|
+|10.00.6241.00|SP4| MS15-058: GDR Security Update| [3045311](https://support.microsoft.com/help/3045311)|July 14, 2015|
 |10.00.5890.00|SP3| MS15-058: QFE Security Update| [3045303](https://support.microsoft.com/help/3045303)|July 14, 2015|
 |10.00.5869.00|SP3| MS14-044: QFE Security Update| [2984340](https://support.microsoft.com/help/2984340), [2977322](https://support.microsoft.com/help/2977322)|August 12, 2014|
 |10.00.5867.00|(on-demand update package)|| [2877204](https://support.microsoft.com/help/2877204)| |
